@@ -1,0 +1,16 @@
+ol {
+    font-size: 30px;
+    color: black;}
+
+ul {
+    font-size: 30px;
+    color: black;}
+
+
+div {
+    font-size: 18px;}
+    div p {
+        color: black;
+        text-align: center;
+        padding: 10px; }
+    
